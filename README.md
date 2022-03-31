@@ -11,3 +11,5 @@ Este projeto tem a seguinte equipe:
 * Ricardo
 * Marcio
 * Renato
+
+Este projeto faz parte da grade curricular da Univesp.
